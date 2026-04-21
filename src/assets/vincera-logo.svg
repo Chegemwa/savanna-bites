@@ -9,5 +9,14 @@
     <!-- Right bracket -->
     <path d="M128 46 L176 82 L176 114 L142 138 L110 160 L122 132 L158 108 L158 88 L128 66 Z"/>
   </g>
-  
+
+  <!-- Wordmark -->
+  <text x="100"
+        y="184"
+        text-anchor="middle"
+        font-family="Inter, Arial, Helvetica, sans-serif"
+        font-size="22"
+        font-weight="800"
+        letter-spacing="1"
+        fill="#F5F5F5">VINCERA</text>
 </svg>
